@@ -1,0 +1,7 @@
+---
+name: CPS
+version: "2.1"
+main: iRainDrop\CPS\Main
+api:
+- 4.2.4
+...
